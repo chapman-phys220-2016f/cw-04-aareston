@@ -1,8 +1,8 @@
 # PHYS220 CW 4
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Aaron Grisez and Preston Kamada 
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-04-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-04-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-04-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-04-aareston)
 
 **Due date:** 2016/09/27
 
