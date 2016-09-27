@@ -2,7 +2,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import scipy as scp
 
 """
 Implements 5 different mathematical sequences which converge to pi.
